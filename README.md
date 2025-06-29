@@ -1,1 +1,1 @@
-# code-trails
+Welcome to Code Trails — a personal learning space where I explore, experiment, and grow as a developer. This repository documents my journey through coding concepts, side projects, and creative experiments. It's a trail of lessons learned, ideas tested, and skills built along the way.# code-trails
