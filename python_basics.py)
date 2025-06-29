@@ -1,0 +1,27 @@
+ython Basics
+
+# This file marks the beginning of my Python learning journey.
+# Today I'm learning about:
+# - Variables
+# - Data types
+# - Printing output
+# - Basic math operations
+
+# Variables and data types
+name = "Randich"
+age = 25
+is_learning = True
+
+# Printing output
+print("Hello, world!")
+print(f"My name is {name}, I am {age} years old.")
+print("Am I learning Python?", is_learning)
+
+# Basic math operations
+a = 10
+b = 5
+
+print("Addition:", a + b)
+print("Subtraction:", a - b)
+print("Multiplication:", a * b)
+print("Division:", a / b)
